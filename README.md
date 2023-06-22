@@ -1,6 +1,6 @@
 # Tomcat-Installation
 
-# sudo wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.58/bin/apache-tomcat-9.0.58.tar.gz
+# sudo wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.76/bin/apache-tomcat-9.0.76.tar.gz
 # sudo tar -xvzf apache-tomcat-9.0.58
 # sudo chown -R ec2-user:ec2-user apache-tomcat-9.0.58
 Start tomcat:
